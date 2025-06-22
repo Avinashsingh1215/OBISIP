@@ -90,9 +90,9 @@ Creates a machine learning classifier to detect **spam emails** using text proce
 
 ## 🙏 Acknowledgments
 
-. Special thanks to Oasis Infobyte for providing this internship opportunity.
+- **Special thanks to Oasis Infobyte for providing this internship opportunity**.
 
-. Gratitude to the open-source community for the datasets, tools, and libraries used in this project.
+- **Gratitude to the open-source community for the datasets, tools, and libraries used in this project**.
 
 ## 📬 Contact
 Feel free to reach out via GitHub Issues for suggestions, improvements, or queries.
